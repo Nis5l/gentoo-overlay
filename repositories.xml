@@ -1,0 +1,11 @@
+<repositories version="1.1" encoding="unicode">
+  <repo quality="experimental" priority="50" status="unofficial">
+    <name>nissl</name>
+    <description>custom repositories</description>
+    <owner>
+      <email>kirchler.lion@gmail.com</email>
+      <name>Lion Kirchler</name>
+    </owner>
+    <source type="git">https://github.com/Anuken/Mindustry/archive/refs/tags/v135.2.tar.gz</source>
+  </repo>
+</repositories>

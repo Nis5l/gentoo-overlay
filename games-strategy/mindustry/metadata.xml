@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>kirchler.lion@gmail.com</email>
+		<name>Lion Kirchler</name>
+	</maintainer>
+	<longdescription lang="en">Mindustry: A sandbox tower-defense game.</longdescription>
+	<upstream>
+		<remote-id type="github">Anuken/Mindustry</remote-id>
+	</upstream>
+</pkgmetadata>
