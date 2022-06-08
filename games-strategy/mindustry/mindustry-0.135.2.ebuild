@@ -3,7 +3,7 @@ JAVA_PKG_IUSE="source"
 
 inherit wrapper
 
-DESCRITPION="Mindustry: A sandbox tower-defense game."
+DESCRIPTION="Mindustry: A sandbox tower-defense game."
 HOMEPAGE="https://mindustrygame.github.io/"
 SRC_URI="https://github.com/Anuken/Mindustry/archive/refs/tags/v135.2.tar.gz"
 
