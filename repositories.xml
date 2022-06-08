@@ -6,6 +6,6 @@
       <email>kirchler.lion@gmail.com</email>
       <name>Lion Kirchler</name>
     </owner>
-    <source type="git">https://github.com/Anuken/Mindustry/archive/refs/tags/v135.2.tar.gz</source>
+    <source type="git">git://github.com/Nis5l/gentoo-overlay.git</source>
   </repo>
 </repositories>
